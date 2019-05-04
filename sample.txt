@@ -4,3 +4,4 @@ commit 记录索引的状态
 pull 取得远端数据库的内容
 checkout 切换分支
 git branch -d 删除分支
+git checkout -b 创建并切换分支
